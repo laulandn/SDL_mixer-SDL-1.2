@@ -1,0 +1,1 @@
+Opened audio at 22050 Hz 16 bit stereo
