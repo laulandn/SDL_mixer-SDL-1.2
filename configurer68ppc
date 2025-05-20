@@ -1,0 +1,1 @@
+./configure --host=powerpc-apple-macos SDL_LIBS="-L$HOME/Retro68-build/toolchain/powerpc-apple-macos/lib -lSDL2 -lm" SDL_CFLAGS="-I$HOME/Retro68-build/toolchain/powerpc-apple-macos/include/SDL2" --enable-music-opus=no --enable-music-gme=no --enable-music-wavpack=no --enable-music-mod-xmp=no --enable-music-midi-fluidsynth=no --enable-music-cmd=no

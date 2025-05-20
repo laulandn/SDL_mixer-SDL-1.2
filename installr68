@@ -1,0 +1,3 @@
+cp build/.libs/libSDL_mixer.a $HOME/Retro68-build/toolchain/m68k-apple-macos/lib
+mkdir -p $HOME/Retro68-build/toolchain/m68k-apple-macos/include/SDL
+cp SDL_mixer.h $HOME/Retro68-build/toolchain/m68k-apple-macos/include/SDL
